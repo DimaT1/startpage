@@ -2,7 +2,7 @@
 	{
         background-color:rgba(255, 255, 255, 0.2);
 		width: 44%;
-		height: 27%;
+		height: 195px;
 		margin: 2%;
 		display: inline-block;
         font-size: 80%;
@@ -32,7 +32,7 @@ a:active {
     text-decoration: none;
     color: black;
 }
-.search_bar {display: inline;}
+.searchBar {display: inline;}
 
 input[type=text] {
   width: 80%;

@@ -30,7 +30,7 @@ a:active {
     text-decoration: none;
     color: black;
 }
-.search_bar {display: inline;}
+.searchBar {display: inline;}
 
 input[type=text] {
   width: 100%;
