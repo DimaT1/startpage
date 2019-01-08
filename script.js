@@ -5,5 +5,6 @@ function randomize_background(){
     var random = Math.floor(Math.random() * backgrounds.length);
     document.body.style.background = backgrounds[random];
     document.body.style.backgroundRepeat = "no-repeat";
-    document.body.style.backgroundSize = "auto";
+    document.body.style.backgroundSize = "cover";
+    document.body.style.backgroundAttachment = "fixed";
 }
