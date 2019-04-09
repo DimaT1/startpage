@@ -1,7 +1,7 @@
 @media (max-width: 800px) {
     .child
 	    {
-            background-color:rgba(255, 255, 255, 0.2);
+            background-color: rgba(255, 255, 255, 0.75);
 		    width: 44%;
 		    height: 195px;
 		    margin: 2%;
@@ -42,7 +42,7 @@
       border: 3px solid black;
       border-radius: 3%;
       font-size: 100%;
-      background-color: rgba(211, 211, 211, 0.1);
+      background-color: rgba(255, 255, 255, 0.75);
       background-position: 5% 5%; 
       background-repeat: no-repeat;
       padding: 6% 8% 6% 4%;
@@ -53,7 +53,7 @@
 @media (min-width: 800px) {
     .child
 	    {
-            background-color:rgba(255, 255, 255, 0.2);
+            background-color:rgba(255, 255, 255, 0.75);
 		    width: 200px;
 		    height: 200px;
 		    margin: 10px;
@@ -91,8 +91,8 @@
       border: 3px solid black;
       border-radius: 4px;
       font-size: 16px;
-      background-color: rgba(211, 211, 211, 0.1);
-      background-image: url('google.png');
+      background-color: rgba(255, 255, 255, 0.75);
+      background-image: url('duck.png');
       background-position: 10px 10px; 
       background-repeat: no-repeat;
       padding: 12px 20px 12px 40px;
